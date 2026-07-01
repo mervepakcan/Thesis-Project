@@ -23,6 +23,8 @@ The study is framed within the context of sustainable urban development, particu
 - **Modeling:** Linear Regression was used for a preliminary comparison; the main analysis focused on three tree-based models — Decision Tree, Random Forest, and Gradient Boosting — each trained with default and tuned configurations in SAS Viya (Model Studio).
 - **Interpretability:** Variable importance, icicle plots, node rules, and HyperSHAP local explanations to identify and explain the main drivers of median sale price.
 
+The cleaned dataset (`merged_cleaned.csv`) and the Python notebook used to produce it (`Data_Prep_Cleaning_EDA.ipynb`) are available in this repository.
+
 ---
 
 ## Research Focus
